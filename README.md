@@ -8,13 +8,13 @@
 
   Execution Policy Site:https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.2
 
-+ 1.Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-+ 2.Get-ExecutionPolicy -list
-+ 3.npm install -g yarn
-+ 4.npm install yarn-workspaces
-+ 5.yarn install
-+ 6.yarn add create-react-app 
-+ 7.yarn create-react-app my-app
++ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
++ Get-ExecutionPolicy -list
++ npm install -g yarn
++ npm install yarn-workspaces
++ yarn install
++ yarn add create-react-app 
++ yarn create-react-app my-app
 
 
 ### ScreenShot ###
