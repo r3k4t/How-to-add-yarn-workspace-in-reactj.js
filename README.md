@@ -10,14 +10,11 @@
 
 + 1.Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 + 2.Get-ExecutionPolicy -list
-
-<br>
-
-+ 1.npm install -g yarn
-+ 2.npm install yarn-workspaces
-+ 3.yarn install
-+ 4.yarn add create-react-app 
-+ 5.yarn create-react-app my-app
++ 3.npm install -g yarn
++ 4.npm install yarn-workspaces
++ 5.yarn install
++ 6.yarn add create-react-app 
++ 7.yarn create-react-app my-app
 
 
 ### ScreenShot ###
