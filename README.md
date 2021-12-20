@@ -1,6 +1,6 @@
 # How to add yarn workspace in react.js
 
-![maxresdefault](https://user-images.githubusercontent.com/69615463/146716062-06cf5081-9654-4011-a28d-7e6666aa3900.jpg
+![maxresdefault](https://user-images.githubusercontent.com/69615463/146716062-06cf5081-9654-4011-a28d-7e6666aa3900.jpg)
 
 <h6>Solution:RKT(Rahat Khan Tusar)</h6>
 
