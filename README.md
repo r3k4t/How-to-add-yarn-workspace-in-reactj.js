@@ -16,6 +16,12 @@
 + yarn add create-react-app 
 + yarn create-react-app my-app
 
+<h6>set file location</h6>
+
++ set PATH=%PATH%;C:\Users\Rahat Khan Tusar\AppData\Local\Yarn\bin\
+
+
+
 
 ### ScreenShot ###
 
