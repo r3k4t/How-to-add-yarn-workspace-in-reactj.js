@@ -1,4 +1,4 @@
-# How to add yarn workspace in react.js
+# How to add yarn workspace in react.js(windows7,8.1,10)?
 ![maxresdefault](https://user-images.githubusercontent.com/69615463/146716062-06cf5081-9654-4011-a28d-7e6666aa3900.jpg)
 
 <h6>Solution:RKT(Rahat Khan Tusar)</h6>
